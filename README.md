@@ -20,7 +20,7 @@ In SQL, **Stored Procedures** and **Functions** are reusable database objects th
 
 ---
 
-## 🛠 Key Concepts
+## Key Concepts
 
 1. **IN Parameter** → Passes a value into a procedure/function.
 2. **OUT Parameter** → Returns a value from a procedure.
